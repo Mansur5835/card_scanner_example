@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "959776165336",
+    "project_id": "card-scanner-example",
+    "storage_bucket": "card-scanner-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959776165336:android:857af6034b6a3f1b76b6ad",
+        "android_client_info": {
+          "package_name": "com.example.card_scanner_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959776165336-p6e4uldh8sjjv6vf49mebcj4rjs8oeeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Dv5RE6n7qdp96izU3xFhQRqRb5m6Dms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959776165336-p6e4uldh8sjjv6vf49mebcj4rjs8oeeu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "959776165336-4s1so5mrepg2q6euflll1joscvflgavs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cardScannerExample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
